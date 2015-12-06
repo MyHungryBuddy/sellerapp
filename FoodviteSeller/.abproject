@@ -1,0 +1,45 @@
+{
+  "ProjectName": "FoodviteSeller",
+  "ProjectGuid": "c113923a-cf7b-41e8-95c3-a1f29b9b6175",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.FoodviteSeller",
+  "DisplayName": "FoodviteSeller",
+  "Author": "",
+  "Description": "FoodviteSeller",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{e18fe9c0-9e60-472f-8d6d-eddf311ef5f0}",
+  "WP8ProductID": "{4927850f-aa8e-4419-a910-f2a6cbfa2e26}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.FoodviteSeller",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
